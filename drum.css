@@ -1,0 +1,61 @@
+body{
+    text-align: center;
+    background-color: #a0606060;
+}
+h1{
+    color: #DBEDF3;
+    font-size: 5rem;
+    font-family: cursive;
+    text-shadow: 3px 0 #DA0463;
+}
+
+.w{
+    background-image: url("Images/w.png");
+}
+.a{
+    background-image: url("Images/a.png");
+}
+.s{
+    background-image: url("Images/s.png");
+}
+.d{
+    background-image: url("Images/d.png");
+}
+.j{
+    background-image: url("Images/j.png");
+}
+.k{
+    background-image: url("Images/k.png");
+}
+.l{
+    background-image: url("Images/l.png");
+}
+.all{
+    margin: 10% auto;
+}
+.animation{
+    box-shadow: 0 3px 4px 0 #D8EDF3;
+    opacity: 0.5;
+}
+.button{
+    outline: none;
+    border: 10px solid #0448da;
+    font-size: 5rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+    text-shadow: 3px 0 white;
+    color: #DA0463;
+}
+.button:hover{
+    width:180px;
+    height: 180px;
+    zoom: 1;
+}
